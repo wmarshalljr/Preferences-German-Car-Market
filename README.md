@@ -6,3 +6,5 @@ This jupyter notebook includes the code we used to prepare our mid-bootcamp proj
 Trello board to track project status: https://trello.com/b/Iffg6xj9/project-week
 
 Tableau Public page with visualizations: https://public.tableau.com/app/profile/william.marshall/viz/IronHack_German_Cars/log_PricebyMileage
+
+Data from Kaggle: https://www.kaggle.com/datasets/ander289386/cars-germany
